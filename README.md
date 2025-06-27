@@ -10,6 +10,18 @@
 </p>
 
 <p align="center">
+  <a href="https://www.instagram.com/666norair/?hl=tr" target="_blank" rel="noreferrer" style="margin-right: 15px;">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C" />
+  </a>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mustafa_Kemal_Atatürk_1930s.jpg/100px-Mustafa_Kemal_Atatürk_1930s.jpg" alt="Atatürk" width="40" height="50" style="vertical-align: middle; margin-right: 10px; border-radius: 5px;" />
+
+  <span style="font-family: 'Arial', sans-serif; font-size: 14px; color: #555; vertical-align: middle; max-width: 300px; display: inline-block; text-align: left;">
+    <strong>Gençliğe Hitabe:</strong> "Ey Türk gençliği! Birinci vazifen, Türk istiklâlini, Türk cumhuriyetini, ilelebet muhafaza ve müdafaa etmektir."
+  </span>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=%CC00FF&lines=Welcome+Norair" alt="Typing SVG" />
 </p>
 
