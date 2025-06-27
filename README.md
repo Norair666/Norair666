@@ -62,4 +62,4 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Animated Line" />
 </p>
 
-instagramın yanına atatürk ve gençliğe hitaba ekle
+
