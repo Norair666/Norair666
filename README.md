@@ -10,18 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/666norair/?hl=tr" target="_blank" rel="noreferrer" style="margin-right: 15px;">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C" />
-  </a>
-
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mustafa_Kemal_Atatürk_1930s.jpg/100px-Mustafa_Kemal_Atatürk_1930s.jpg](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk5OXhjbDdlOHJmcHFrM2dyODBrZGEwM2x1YnVvcGxrNWR6aXRsOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SPFRCiV7qKW3l88blb/giphy.gif)" alt="Atatürk" width="40" height="50" style="vertical-align: middle; margin-right: 10px; border-radius: 5px;" />
-
-  <span style="font-family: 'Arial', sans-serif; font-size: 14px; color: #555; vertical-align: middle; max-width: 300px; display: inline-block; text-align: left;">
-    <strong>Gençliğe Hitabe:</strong> "Ey Türk gençliği! Birinci vazifen, Türk istiklâlini, Türk cumhuriyetini, ilelebet muhafaza ve müdafaa etmektir."
-  </span>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=%CC00FF&lines=Welcome+Norair" alt="Typing SVG" />
 </p>
 
@@ -73,3 +61,5 @@
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Animated Line" />
 </p>
+
+instagramın yanına atatürk ve gençliğe hitaba ekle
