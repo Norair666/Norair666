@@ -1,16 +1,63 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Animasyon" />
+  <img src="https://komarev.com/ghpvc/?username=norair666&style=plastics&color=red" align="right" alt="Ziyaretçi Sayısı" />
+</p>
 
-<!--
-**Norair666/Norair666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.instagram.com/666norair/" target="_blank" rel="noreferrer">
+    <img width="150" src="https://i.imgur.com/ISEyV5G_d.webp" alt="Instagram Logo" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%CC00FF&lines=Welcome+Norair" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>HTML / CSS / JavaScript / C / C++ / C# / Python</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/666norair/?hl=tr" target="_blank" rel="noreferrer">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C" />
+  </a>
+  <a href="https://github.com/Norair666" target="_blank" rel="noreferrer" style="margin-left:10px;">
+    <img alt="Github" src="https://img.shields.io/badge/-Github-000?style=for-the-badge&labelColor=000&logo=Github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F2N2h3bTk2bnM5em5sdTgxOWp1ZDZwNDFrdWRmNDFtanpiMWE5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Animasyon" />
+</p>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Animated Line" />
+</p>
